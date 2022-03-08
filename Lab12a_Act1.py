@@ -1,9 +1,3 @@
-# By submitting this assignment, I agree to the following:
-# "Aggies do not lie, cheat, or steal, or tolerate those who do"
-# "I have not given or received any unauthorized aid on this assignment."
-
-# Name: Kiara Bermudez
-# Section: 534
 # Assignment: Lab 12a - Act2
 # Date: 11/9/2020
 
